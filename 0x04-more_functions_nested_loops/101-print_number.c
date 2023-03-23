@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_number - prints an integer
  * @n: integer to be printed
@@ -24,10 +23,6 @@ void print_number(int n)
 
 	_putchar((n1 % 10) + '0');
 }
-
-
-
-
 101-main.c
 #include "main.h"
 
