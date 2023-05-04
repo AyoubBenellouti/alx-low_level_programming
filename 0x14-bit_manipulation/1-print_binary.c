@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
-  alx programe task 1 :  returns the value of a bit at an index in a decimal number
- **/
+** alx programe task 1;
+**returns the value of a bit at an index in a decimal number
+**/
 void print_binary(unsigned long int n)
 {
 	int i, count = 0;
